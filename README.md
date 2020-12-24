@@ -1,6 +1,7 @@
 # bikesharing
 # Overview of the analysis: 
 The purpose of this analysis is to determine whether a bike sharing program within Des Monies would be a profitable business proposal. One of the stakeholders requested further analysis of bike trip data.  
+[link to dashboard](https://public.tableau.com/profile/camille.goodwin#!/vizhome/Module_14_16086897634060/NYCCitibikePresentation)
 # Results: 
 Below each image is a description of the graph and the information that is reflected. 
 
